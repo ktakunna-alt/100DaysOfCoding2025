@@ -13,7 +13,5 @@ public class Day31 {
         boolean lulus = (teori >= 70) && (praktik >= 70);
 
         System.out.println("Lulus: " + lulus);
-
-        input.close();
     }
 }
