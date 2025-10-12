@@ -18,7 +18,5 @@ public class Day35 {
         } else {
             System.out.println("Nilai kamu E. Tidak lulus.");
         }
-
-        input.close();
     }
 }
