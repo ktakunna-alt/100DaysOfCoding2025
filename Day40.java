@@ -36,8 +36,5 @@ public class Day40 {
             }
         } else {
             System.out.println("Operator tidak dikenal!");
-        }
-
-        input.close();
     }
 }
