@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Day43_Kelipatan {
+public class Day43 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
