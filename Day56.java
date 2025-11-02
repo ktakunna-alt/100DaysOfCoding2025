@@ -31,6 +31,5 @@ public class Day56 {
 
         } while (!loginBerhasil && percobaan < 3);
 
-        input.close();
     }
 }
