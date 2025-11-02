@@ -14,7 +14,7 @@ public class Day56 {
             System.out.print("Masukkan Password: ");
             password = input.nextLine();
 
-            if (username.equalsIgnoreCase("Auliyah") && password.equals("111")) {
+            if (username.equalsIgnoreCase("Kristin") && password.equals("D0224329")) {
                 System.out.println("Login Sebagai Pengguna");
                 loginBerhasil = true;
             } else if (username.equalsIgnoreCase("admin") && password.equalsIgnoreCase("admin")) {
